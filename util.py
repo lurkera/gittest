@@ -9,3 +9,6 @@ def add(*args):
 
 def print_line():
     print('dev branch print。。。。')
+
+if __name__ == '__main__':
+    print_line()
