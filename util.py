@@ -13,5 +13,8 @@ def print_line():
 def print_dev():
     print('this is dev bransh new new new')
 
+def bug002():
+    print("ok")
+
 if __name__ == '__main__':
     print_line()
