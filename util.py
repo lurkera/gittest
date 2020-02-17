@@ -16,5 +16,9 @@ def print_dev():
 def bug002():
     print("ok")
 
+def stash_print():
+    print("stash_ok")
+
+
 if __name__ == '__main__':
     print_line()
